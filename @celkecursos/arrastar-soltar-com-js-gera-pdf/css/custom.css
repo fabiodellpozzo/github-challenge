@@ -1,0 +1,42 @@
+.titulo{
+    text-align: center;
+}
+
+.areaDados{
+    float: left;
+    width: 45%;
+    padding: 10px;
+    margin: 10px;
+    min-height: 200px;
+    background-color: #f5f5f5;
+    border: 1px solid #ccc;
+}
+
+ul{
+    list-style-type: none;
+    padding: 0;
+}
+
+li{
+    margin: 5px;
+    background-color: #fff;
+    padding: 5px;
+    cursor: pointer;
+    border: 1px solid #ccc;
+}
+
+.areaDados h2{
+    text-align: center;
+}
+
+.containerItem{
+    min-height: 150px;
+}
+
+.containerItem li{
+    user-select: none;
+}
+
+.containerItem li:hover{
+    background-color: #e0e0e0;
+}
