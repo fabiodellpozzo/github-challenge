@@ -1,6 +1,10 @@
-# Test StackEdit!
+# Teste StackEdit!
 
 Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
+
+[Fabio Dell Pozzo · Portifolio v0.2](https://fabiodellpozzo.com.br/)
+
+[Sourcetree | Free Git GUI for Mac and Windows (sourcetreeapp.com)](https://www.sourcetreeapp.com/)
 
 
 # Files
