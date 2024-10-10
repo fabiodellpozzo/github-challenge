@@ -2,8 +2,6 @@
 
 Desafio de desenvolvimento de tutoriais do  **Youtube**. 
 
-[Fabio Dell Pozzo · Portifolio v0.2](https://fabiodellpozzo.com.br/)
-
 # Channels
 
 Canais **Youtube**.
